@@ -1,0 +1,2 @@
+# myappideas
+Minhas soluções desenvolvidas!
